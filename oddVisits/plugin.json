@@ -1,0 +1,13 @@
+{
+ "name": "Visit even and odd",
+ "version": "0.0.1",
+ "description": "ExampleDescription",
+ "theme": false,
+ "authors": [
+     {
+         "name": "Fradnet Agencja Interaktywna",
+         "email": "biuro@fradnet.com",
+         "homepage": "http://www.fradnet.com/"
+     }
+ ]
+}
